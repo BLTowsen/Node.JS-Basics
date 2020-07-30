@@ -4,11 +4,7 @@
   "description": "This is a basic run through of node",
   "main": "app.js",
   "scripts": {
-<<<<<<< HEAD
     "develop": "nodemon app.js"
-=======
-    "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> parent of 7d527c8... Installing packages
   },
   "repository": {
     "type": "git",
